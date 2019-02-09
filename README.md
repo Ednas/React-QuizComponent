@@ -1,5 +1,7 @@
 # Build a Quiz Component with React
 
+As you move through the modules, you can run module-specific tests with the script  npm run test:module1, replacing the number with one that corresponds with the module you are working in.
+
 This repo contains the code for the Pluralsight Project "Build a Quiz Component with React," located here: https://app.pluralsight.com/projects/build-a-quiz-component-with-react/
 
 This project was generated with `create-react-app` version 1.5.2.
